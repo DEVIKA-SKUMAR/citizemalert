@@ -1,0 +1,72 @@
+name: flutter_app
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_svg: ^2.0.10+1
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/images/representative_image_of_natural_disaster.jpeg
+  - assets/images/cli_landslide_attribution_study_cjmq_jumbo_1.png
+  - assets/images/unsplash_00_by_exkc_sk_a.jpeg
+  - assets/images/image.png
+  - assets/images/image_2.png
+  - assets/vectors/settings_1_x2.svg
+  - assets/vectors/more_1_x2.svg
+  - assets/vectors/go_back_3_x2.svg
+  - assets/vectors/go_back_4_x2.svg
+  - assets/vectors/settings_2_x2.svg
+  - assets/images/image_1.png
+  - assets/vectors/go_back_x2.svg
+  - assets/vectors/settings_x2.svg
+  - assets/vectors/home_2_x2.svg
+  - assets/vectors/search_x2.svg
+  - assets/vectors/add_photo_2_x2.svg
+  - assets/vectors/profile_1_x2.svg
+  - assets/vectors/notification_2_x2.svg
+  - assets/vectors/notification_1_x2.svg
+  - assets/vectors/go_back_2_x2.svg
+  - assets/vectors/settings_3_x2.svg
+  - assets/vectors/home_1_x2.svg
+  - assets/vectors/profile_3_x2.svg
+  - assets/vectors/search_1_x2.svg
+  - assets/vectors/add_photo_3_x2.svg
+  - assets/images/photo_2.jpeg
+  - assets/images/photo_1.jpeg
+  - assets/images/photo_4.jpeg
+  - assets/images/photo_3.jpeg
+  - assets/vectors/circles_on_circle_x2.svg
+  - assets/images/unsplashs_rya_htz_pgf_u.jpeg
+  - assets/images/gettyimages_1516651535594_x_594_jpg.png
+  - assets/vectors/more_x2.svg
+  - assets/vectors/home_3_x2.svg
+  - assets/vectors/profile_2_x2.svg
+  - assets/vectors/shape_x2.svg
+  - assets/vectors/search_2_x2.svg
+  - assets/vectors/go_back_1_x2.svg
+  - assets/vectors/add_photo_x2.svg
+  - assets/vectors/notification_x2.svg
+  - assets/vectors/vector_1_x2.svg
+  - assets/vectors/notification_3_x2.svg
+  - assets/vectors/home_x2.svg
+  - assets/vectors/search_3_x2.svg
+  - assets/vectors/add_photo_1_x2.svg
+  - assets/vectors/profile_x2.svg
+  - assets/vectors/vector_x2.svg
+
